@@ -1,6 +1,6 @@
 # MineCraft Clone
 
-A **MineCraft Clone** built using [Three.js](https://threejs.org/), a powerful JavaScript library for 3D rendering and animations.
+A **Minecraft Clone** built using [Three.js](https://threejs.org/), a powerful JavaScript library for 3D rendering and animations.
 
 ## Description
 
@@ -32,8 +32,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iSaurabhMeshram28/MineCraft-Clone.git
-   cd MineCraft-Clone
+   git clone https://github.com/iSaurabhMeshram28/Minecraft-Clone.git
+   cd Minecraft-Clone
    ```
 
 2. Install dependencies:
