@@ -1,4 +1,4 @@
-# MineCraft Clone
+# Minecraft Clone
 
 A **Minecraft Clone** built using [Three.js](https://threejs.org/), a powerful JavaScript library for 3D rendering and animations.
 
